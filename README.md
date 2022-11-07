@@ -1,5 +1,9 @@
 # PyBoy-AutoPause Plugin
 
+## WARNING: This depends on the unmerged code in https://github.com/Baekalfen/PyBoy/pull/233
+
+__If you have any questions, or just want to chat, [join us on Discord](https://discord.gg/Zrf2nyH).__
+
 This is a very simple example of creating a plugin for [PyBoy](https://github.com/Baekalfen/PyBoy). It contains the boilerplate code necessary to create, build and register the plugin.
 
 Steps to create a plugin:
